@@ -1,2 +1,0 @@
-# archimate-example
-right
